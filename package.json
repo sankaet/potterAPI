@@ -21,5 +21,9 @@
   "engines": {
     "node": "^7.1.0",
     "npm": "^3.10.9"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.0",
+    "eslint-plugin-react": "^6.6.0"
   }
 }
