@@ -14,6 +14,9 @@ A RESTful API for Harry Potter data ⚡️
 * [Postgres](http://www.postgresql.org/)
 * [Webpack](https://webpack.github.io/)
 
-##Starting the App
-- [ ] Run `npm start`
+##Setup
+- [ ] Run `npm install`
+
+#Compile
+- [ ] Run `npm run compile`
 
