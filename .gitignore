@@ -11,3 +11,6 @@ node_modules
 
 # Environment Variables
 .env
+
+# Build Tool Output
+bundle.js
