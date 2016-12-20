@@ -1,12 +1,13 @@
 const express = require('express');
+const path = require('path');
 const webpackDevMiddleware = require('webpack-dev-middleware');
 const webpack = require('webpack');
 const webpackConfig = require('../webpack.config.js');
+
 const app = express();
+const compiler = webpack(webpackConfig);
 
-var compiler = webpack(webpackConfig);
-
-app.use(express.static(`${__dirname}/../client/public`));
+app.use(express.static(path.join(__dirname, '../client/public')));
 
 app.use(webpackDevMiddleware(compiler, {
   hot: true,
@@ -19,9 +20,8 @@ app.use(webpackDevMiddleware(compiler, {
 }));
 
 const server = app.listen(process.env.PORT || 3000, function() {
-  const host = server.address().address;
   const port = server.address().port;
-  console.log('potterAPI listening on...', host, port);
+  console.log('potterAPI listening on...', port);
 });
 
 module.exports = server;
