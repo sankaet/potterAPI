@@ -1,16 +1,27 @@
 const mongoose = require('mongoose');
+const connect = mongoose.connect('mongodb://localhost/3000');
 
-const characterSchema = mongoose.Schema({
-  Full Name: String
-Birthday: String
-Wand: String
-House: String
-Patronus: String
-Parents: String
-Skills: Array
-Hobbies: Array
-Death: String
+connect.use()
+
+const Schema = mongoose.Schema;
+
+const characterSchema = new Schema({
+  id: Number,
+  name: String,
+  description: String,
+  fullName: String,
+  birthday: String,
+  wand: String,
+  house: String,
+  patronus: String,
+  parents: String,
+  skills: Array,
+  hobbies: Array,
+  death: String,
+  collections: Array,
+  resource: String
 });
 
-mongoose.connect('mongodb://localhost/3000');
+const Character = mongoose.model('Character', characterSchema);
+
 
