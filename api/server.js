@@ -11,23 +11,6 @@ app.use(express.static(path.join(__dirname, '../client')));
 
 mongoose.connect('mongodb://localhost/potterdata/');
 
-const CharacterSchema = new Schema({
-  name: String,
-  description: String,
-  fullName: String,
-  birthday: String,
-  wand: String,
-  house: String,
-  patronus: String,
-  skills: Array,
-  collections: Array,
-  hobbies: Array,
-  resource: String,
-  death: String
-});
-
-const Character = mongoose.model('Character', CharacterSchema);
-
 const CreatureSchema = new Schema({
   name: String,
   description: String,
@@ -43,12 +26,12 @@ const CreatureSchema = new Schema({
 
 const Creature = mongoose.model('Creature', CreatureSchema);
 
-app.get('/characters', (req, res) => {
-  mongoose.model('Character').find((err, characters) => {
-    // Sends an array of characters in DB
-    res.send(characters[0]);
-  });
-});
+// app.get('/characters', (req, res) => {
+//   Character.find((err, characters) => {
+//     // Sends an array of characters in DB
+//     res.send(characters[0]);
+//   });
+// });
 
 app.get('/creatures', (req, res) => {
   mongoose.model('Creature').find((err, creatures) => {

@@ -5,6 +5,24 @@
   <title>potterAPI - The Harry Potter API</title>
 </head>
 <body class="container">
-<h1>potterAPI</h1>
+  <h1>potterAPI</h1>
+  <div>
+    <p> All the Harry Potter data you could ever want:
+    Spells, Locations, Magical objects, Characters, Creatures and more!</p>
+    <h3>Try it out:</h3>
+  </div>
+  <div class="input-group row form-group">
+    <span class="col-md-2"></span>
+    <input type="text" class="form-control col-md-5" id="basic-url" aria-describedby="basic-addon3" placeholder="characters/1/"/>
+    <span class="input-group-btn col-md-2">
+      <button class="btn btn-default" id="request" onclick="">request</button>
+    </span>
+    <span class="col-md-1"></span>
+  </div>
+  <script type="text/javascript">
+    document.getElementById("request").addEventListener("click", function(){
+      console.log('SEARCH INPUT',document.getElementById("basic-url").value);
+    })
+  </script>
 </body>
 </html>

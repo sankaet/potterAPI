@@ -39,4 +39,8 @@ fs.readdir('../../data/characters', (err, characters) => {
   }
 });
 
+module.exports = {
+  character: Character
+}
+
 
