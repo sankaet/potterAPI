@@ -1,0 +1,10 @@
+{
+  "name": "Lavender Brown",
+  "description": "A sentimental but loyal student and an original member of Dumbledore’s Army. Develops a crush on Ron Weasley",
+  "house": "Gryffindor",
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "lavender-brown"
+}

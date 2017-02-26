@@ -1,0 +1,12 @@
+{
+  "name": "The Sword of Gryffindor",
+  "description": "Gleaming silver sword made of goblin-forged steel with a ruby-studded hilt",
+  "magicalProperties": "Contains properties only goblin-made armour possesses and will take on the power of substances it touches",
+  "purpose": "A powerful weapon that has been presenting itself to Gryffindors in times of need for centuries",
+  "whoMadeOrFirstOwnedIt": "This is a matter of some dispute between wizards and goblins",
+  "whenItWasMade": "Forged a thousand years ago by Ragnuk the First, king of the goblins",
+  "collections": [
+    "objects"
+  ],
+  "resource": "the-sword-of-gryffindor"
+}

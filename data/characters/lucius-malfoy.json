@@ -1,0 +1,18 @@
+{
+  "name": "Lucius Malfoy",
+  "description": "Draco's father who serves Lord Voldemort as a Death Eater in both Wizarding Wars",
+  "birthday": "c. 1954",
+  "wand": "Eighteen inches, elm, dragon heartstring. After the Battle of the Seven Potters he began using an unknown wand.",
+  "house": "Slytherin",
+  "parents": "Abraxas Malfoy - Father",
+  "skills": [
+    "Skilled duellist",
+    "Potioneer"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-malfoy-family"
+  ],
+  "resource": "lucius-malfoy"
+}

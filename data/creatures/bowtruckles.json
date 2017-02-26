@@ -1,0 +1,12 @@
+{
+  "name": "Bowtruckles",
+  "description": "A small twig-like creature that guards wand-wood trees",
+  "appearance": "Maximum of eight inches in height, made of bark and twigs with two small brown eyes",
+  "magicAbilities": "Natural camouflage",
+  "dangers": "Peaceful and shy, unless its tree habitat is threatened. Has long, sharp fingers",
+  "typicalHabitats": "West of England, southern Germany and certain Scandinavian forests",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "bowtruckles"
+}

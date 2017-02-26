@@ -1,0 +1,12 @@
+{
+  "name": "Number Four, Privet Drive",
+  "description": "Home to the Dursley family, and the house where Harry grew up in the cupboard under the stairs",
+  "whereInTheWorld": "Little Whinging, Surrey",
+  "type": "Suburban house",
+  "residentsOrOwners": "Vernon and Petunia Dursley",
+  "magicalProperties": "Perfectly normal, thank you very much",
+  "collections": [
+    "locations"
+  ],
+  "resource": "number-four-privet-drive"
+}

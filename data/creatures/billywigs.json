@@ -1,0 +1,13 @@
+{
+  "name": "Billywigs",
+  "description": "A small, vivid sapphire-blue insect with wings on its head which allow it to spin as it flies. Its sting causes giddiness and levitation and, when dried, can be used in several potions",
+  "breed": "Insect",
+  "appearance": "Small and vivid sapphire-blue in colour. The fast-rotating wings atop its head allow the Billywig to spin as it flies.",
+  "magicAbilities": "Dried Billywig stings are used in several potions, and allegedly in Fizzing Whizzbees.",
+  "dangers": "The Billywig's sting causes giddiness and levitation, which can be permanent if the sufferer is allergic",
+  "typicalHabitats": "Australia",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "billywigs"
+}

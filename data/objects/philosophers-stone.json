@@ -1,0 +1,11 @@
+{
+  "name": "The Philosopher’s Stone",
+  "description": "Legendary stone that turns metal into gold and produces a liquid ensuring immortality for those who drink it",
+  "magicalProperties": "Can transform any metal into pure gold, and produces a substance called the Elixir of Life which makes the drinker immortal",
+  "purpose": "To ensure immortal life and wealth",
+  "whoMadeOrFirstOwnedIt": "Nicolas Flamel, a noted alchemist who lived to be more than 600 years old",
+  "collections": [
+    "objects"
+  ],
+  "resource": "philosophers-stone"
+}

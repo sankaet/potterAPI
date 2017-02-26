@@ -1,0 +1,11 @@
+{
+  "name": "Hippogriffs",
+  "description": "Half horse, half eagle creatures, immensely proud and extremely dangerous",
+  "appearance": "A cross between a horse and an eagle",
+  "dangers": "Proud creatures prone to attack if they are not shown respect, with razor-sharp beaks and foot-long talons",
+  "allegiance": "Loyal when shown the proper respect",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "hippogriffs"
+}

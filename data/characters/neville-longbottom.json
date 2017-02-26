@@ -1,0 +1,19 @@
+{
+  "name": "Neville Longbottom",
+  "description": "A clumsy but keen Herbology student and shy Gryffindor with great inner strength",
+  "birthday": "30 July 1980",
+  "wand": "First wand was inherited from his father; second wand was thirteen inches, cherry, unicorn hair",
+  "house": "Gryffindor",
+  "parents": "Frank and Alice Longbottom, but raised by grandmother Augusta Longbottom",
+  "skills": [
+    "Herbology"
+  ],
+  "hobbies": [
+    "Breeding Mimbulus mimbletonia"
+  ],
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "neville-longbottom"
+}

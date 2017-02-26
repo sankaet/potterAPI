@@ -1,0 +1,11 @@
+{
+  "name": "Demiguise",
+  "description": "Peaceful, ape-like herbivores with the ability to turn invisible when threatened",
+  "appearance": "Covered in silky, silvery hair, the Demiguise is ape-like in appearance with black, doleful eyes",
+  "magicAbilities": "Can turn invisible when threatened, and its pelt can be spun into Invisibility Cloaks",
+  "typicalHabitats": "Far East",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "demiguise"
+}

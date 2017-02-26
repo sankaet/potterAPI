@@ -1,0 +1,17 @@
+{
+  "name": "Igor Karkaroff",
+  "description": "Former Death Eater and Headmaster of Durmstrang Institute",
+  "fullName": "Igor Karkaroff",
+  "skills": [
+    "Skilled in the Dark Arts"
+  ],
+  "hobbies": [
+    "Encouraging a culture of fear",
+    "Intimidation during his post as Headmaster of Durmstrang"
+  ],
+  "collections": [
+    "characters",
+    "international-wizards"
+  ],
+  "resource": "igor-karkaroff"
+}

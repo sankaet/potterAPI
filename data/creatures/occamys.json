@@ -1,0 +1,12 @@
+{
+  "name": "Occamys",
+  "description": "Plumed, two-legged winged creature with a serpentine body, that is fiercely protective of its eggs",
+  "appearance": "Plumed, two-legged winged creature with a serpentine body",
+  "magicAbilities": "Can grow to vast lengths. Produces silver eggs",
+  "dangers": "Can carry off rats, birds and monkeys. Aggressive to all who approach it, especially defensive of its eggs",
+  "typicalHabitats": "Far East and India",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "occamys"
+}

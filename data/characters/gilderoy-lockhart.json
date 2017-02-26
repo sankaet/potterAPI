@@ -1,0 +1,17 @@
+{
+  "name": "Gilderoy Lockhart",
+  "description": "Author, professor and five-time winner of Witch Weekly's Most Charming Smile Award",
+  "fullName": "Gilderoy Lockhart O.M. (Third Class)",
+  "birthday": "26 January 1964",
+  "wand": "Cherry and dragon heartstring, nine inches, slightly bendy",
+  "house": "Ravenclaw",
+  "hobbies": [
+    "Autographing photographs of himself",
+    "Relentless self-promotion"
+  ],
+  "collections": [
+    "characters",
+    "characters-professors"
+  ],
+  "resource": "gilderoy-lockhart"
+}

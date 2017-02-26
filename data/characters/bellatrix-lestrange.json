@@ -1,0 +1,22 @@
+{
+  "name": "Bellatrix Lestrange",
+  "description": "One of Voldemort’s most loyal Death Eaters, sent to Azkaban for her crimes. A dangerous witch and skilled duelist",
+  "wand": "Twelve and three-quarter inches, walnut, dragon heartstring",
+  "house": "Slytherin",
+  "parents": "Cygnus Black III and Druella Black",
+  "skills": [
+    "She is a duellist of great skill",
+    "An experienced Occlumens"
+  ],
+  "hobbies": [
+    "Obsessed with her master",
+    "Blood-purity",
+    "Intensely happy to torture any that cross her"
+  ],
+  "death": "2 May 1998",
+  "collections": [
+    "characters",
+    "characters-slytherins"
+  ],
+  "resource": "bellatrix-lestrange"
+}}

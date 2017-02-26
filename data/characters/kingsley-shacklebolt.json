@@ -1,0 +1,14 @@
+{
+  "name": "Kingsley Shacklebolt",
+  "description": "Auror, member of the Order of the Phoenix and eventually, Minister for Magic",
+  "patronus": "Lynx",
+  "skills": [
+    "Exceptionally skilled duellist",
+    "Auror"
+  ],
+  "collections": [
+    "characters",
+    "members-of-the-order-of-the-phoenix"
+  ],
+  "resource": "kingsley-shacklebolt"
+}

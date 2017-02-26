@@ -1,0 +1,13 @@
+{
+  "name": "Nifflers",
+  "description": "Long-snouted, burrowing creatures native to Britain with a penchant for anything shiny",
+  "breed": "Nifflers",
+  "appearance": "Black and with a long snout",
+  "magicAbilities": "Finding treasure",
+  "dangers": "Can be destructive and should not be kept domestically",
+  "typicalHabitats": "Lives in lairs up to twenty feet below ground",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "nifflers"
+}

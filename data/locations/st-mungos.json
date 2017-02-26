@@ -1,0 +1,10 @@
+{
+  "name": "St Mungo’s Hospital",
+  "description": "A wizarding hospital for magical maladies and injuries",
+  "whereInTheWorld": "London, hidden within the seemingly closed Purge and Dowse Ltd. department store",
+  "residentsOrOwners": "Founded by Healer Mungo Bonham in the 1600s",
+  "collections": [
+    "locations"
+  ],
+  "resource": "st-mungos"
+}

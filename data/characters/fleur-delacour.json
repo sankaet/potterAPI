@@ -1,0 +1,15 @@
+{
+  "name": "Fleur Delacour",
+  "description": "Beauxbatons student and Triwizard champion",
+  "fullName": "Fleur Isabelle Delacour",
+  "parents": "Monsieur and Madame Apolline Delacour",
+  "skills": [
+    "Fleur is part Veela",
+    "And therefore possesses some of their magical powers. She was also selected to compete in the Triwizard Tournament"
+  ],
+  "collections": [
+    "characters",
+    "international-wizards"
+  ],
+  "resource": "fleur-delacour"
+}

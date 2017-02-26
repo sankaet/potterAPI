@@ -1,0 +1,10 @@
+{
+  "name": "Swooping Evil",
+  "description": "A large, butterfly-like creature that emerges from a small object, possibly a cocoon",
+  "breed": "Swooping Evil",
+  "appearance": "Blue and green winged beast",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "swooping-evil"
+}

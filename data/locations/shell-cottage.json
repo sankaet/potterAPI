@@ -1,0 +1,11 @@
+{
+  "name": "Shell Cottage",
+  "description": "Bill and Fleur Weasley’s remote Cornish cottage overlooking the sea",
+  "whereInTheWorld": "Tinworth, Cornwall",
+  "residentsOrOwners": "Bill and Fleur Weasley",
+  "magicalProperties": "Protected from attack by the Death Eaters thanks to the Fidelius Charm (Bill Weasley is the cottage’s Secret Keeper)",
+  "collections": [
+    "locations"
+  ],
+  "resource": "shell-cottage"
+}

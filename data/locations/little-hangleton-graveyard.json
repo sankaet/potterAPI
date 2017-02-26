@@ -1,0 +1,11 @@
+{
+  "name": "Little Hangleton Graveyard",
+  "description": "Graveyard where the Riddle family are buried and the site of Lord Voldemort's return",
+  "whereInTheWorld": "Little Hangleton",
+  "residentsOrOwners": "The Riddle family",
+  "significantEventsThatTookPlaceHere": "Voldemort's rebirth and Cedric Diggory's death",
+  "collections": [
+    "locations"
+  ],
+  "resource": "little-hangleton-graveyard"
+}

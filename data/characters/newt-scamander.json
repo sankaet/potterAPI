@@ -1,0 +1,17 @@
+{
+  "name": "Newt Scamander",
+  "description": "Magizoologist and writer of the textbook ‘Fantastic Beasts and Where to Find Them'",
+  "fullName": "Newton Artemis Fido Scamander",
+  "birthday": "1897",
+  "house": "Hufflepuff",
+  "skills": [
+    "Magizoology",
+    "Order of Merlin",
+    "Second Class"
+  ],
+  "collections": [
+    "characters",
+    "ministry-of-magic-employees"
+  ],
+  "resource": "newt-scamander"
+}

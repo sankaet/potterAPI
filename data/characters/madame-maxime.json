@@ -1,0 +1,17 @@
+{
+  "name": "Madame Maxime",
+  "description": "The elegant Headmistress of Beauxbatons and a half-giantess",
+  "fullName": "Madame Olympe Maxime",
+  "skills": [
+    "An ‘excellent dancer’",
+    "In the words of Dumbledore himself"
+  ],
+  "hobbies": [
+    "Tending to her Abraxan horses"
+  ],
+  "collections": [
+    "characters",
+    "international-wizards"
+  ],
+  "resource": "madame-maxime"
+}

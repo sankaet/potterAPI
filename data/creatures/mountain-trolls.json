@@ -1,0 +1,12 @@
+{
+  "name": "Mountain Trolls",
+  "description": "The largest and most vicious breed of troll - best avoided",
+  "appearance": "Bald with pale-grey skin, up to twelve feet tall, weighing over a tonne",
+  "magicAbilities": "Troll whiskers can sometimes be used as wand cores",
+  "dangers": "Sheer strength, destructive tendencies",
+  "typicalHabitats": "Mountainous countryside",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "mountain-trolls"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Owls",
+  "description": "Nocturnal birds, loyal pets, and the preferred postal method in the wizarding world",
+  "appearance": "Feathers, wings, big eyes",
+  "typicalHabitats": "In the Owlery at Hogwarts, for sale in Eeylops Owl Emporium",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "owls"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "The Mirror of Erised",
+  "description": "A special mirror which reflects the deepest desires of those who look at it",
+  "magicalProperties": "The mirror reveals, to anyone who stands in front of it, a reflection of their heart’s desire",
+  "collections": [
+    "objects"
+  ],
+  "resource": "the-mirror-of-erised"
+}

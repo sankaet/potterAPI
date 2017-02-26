@@ -1,0 +1,8 @@
+{
+  "name": "Resurrection Stone",
+  "description": "One of the three Deathly Hallows, it can bring back an echo of the dead",
+  "type": "Deathly Hallow",
+  "purpose": "To temporarily bring back the dead",
+  "collections": [],
+  "resource": "resurrection-stone"
+}

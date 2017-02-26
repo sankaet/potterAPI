@@ -1,0 +1,15 @@
+{
+  "name": "Lily Potter",
+  "description": "Harry’s mother, a talented Muggle-born witch who was murdered by Voldemort during the First Wizarding War",
+  "birthday": "30 January 1960",
+  "wand": "Ten and a quarter inches, willow",
+  "house": "Gryffindor",
+  "patronus": "Doe",
+  "death": "31 October 1981",
+  "collections": [
+    "characters",
+    "families",
+    "the-potter-family"
+  ],
+  "resource": "lily-potter"
+}

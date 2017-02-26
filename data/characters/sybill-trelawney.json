@@ -1,0 +1,23 @@
+{
+  "name": "Sybill Trelawney",
+  "description": "Divination professor at Hogwarts who has prophesied accurately at least twice",
+  "fullName": "Sybill Patricia Trelawney",
+  "birthday": "9 March",
+  "wand": "9 ½”, hazel, unicorn hair core",
+  "house": "Ravenclaw",
+  "parents": "Muggle mother, wizard father",
+  "skills": [
+    "A Seer",
+    "Though the gift is unpredictable",
+    "Unconscious"
+  ],
+  "hobbies": [
+    "Practising making doom-laden prophecies in front of the mirror",
+    "Sherry"
+  ],
+  "collections": [
+    "characters",
+    "characters-ravenclaws"
+  ],
+  "resource": "sybill-trelawney"
+}

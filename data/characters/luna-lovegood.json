@@ -1,0 +1,22 @@
+{
+  "name": "Luna Lovegood",
+  "description": "Unique Ravenclaw, true friend and artist",
+  "birthday": "13 February",
+  "house": "Ravenclaw",
+  "patronus": "Hare",
+  "parents": "Xenophilius and Pandora Lovegood",
+  "skills": [
+    "Spotting Nargles"
+  ],
+  "hobbies": [
+    "Defending her father’s publication The Quibbler",
+    "Looking for her shoes",
+    "Painting"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "lovegood-family"
+  ],
+  "resource": "luna-lovegood"
+}

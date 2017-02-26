@@ -1,0 +1,10 @@
+{
+  "name": "Imperio",
+  "description": "One of the three Unforgiveable Curses, it allows the caster to control another’s actions",
+  "incantation": "Imperio",
+  "purpose": "To make someone do exactly what you want",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "imperius-curse"
+}

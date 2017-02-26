@@ -1,0 +1,20 @@
+{
+  "name": "James Potter",
+  "description": "Harry's father, and a member of the Marauders and the first Order of the Phoenix. Murdered by Voldemort during the First Wizarding War",
+  "birthday": "27 March 1960",
+  "wand": "Eleven inches, mahogany",
+  "house": "Gryffindor",
+  "patronus": "Stag",
+  "skills": [
+    "Transfiguration",
+    "Was an Animagus at fifteen",
+    "Skilled Quidditch player"
+  ],
+  "death": "31 October 1981",
+  "collections": [
+    "characters",
+    "families",
+    "the-potter-family"
+  ],
+  "resource": "james-potter"
+}

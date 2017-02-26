@@ -1,0 +1,10 @@
+{
+  "name": "Stupefy",
+  "description": "A useful spell used to knock out an opponent in a duel",
+  "incantation": "Stupefy",
+  "purpose": "To stun an opponent, rendering them unconscious",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "stunning-spell"
+}

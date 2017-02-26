@@ -1,0 +1,15 @@
+{
+  "name": "Cho Chang",
+  "description": "Ravenclaw Seeker, member of Dumbledore’s Army, Harry’s first crush",
+  "fullName": "Cho Chang",
+  "house": "Ravenclaw",
+  "patronus": "Swan",
+  "hobbies": [
+    "Supports the Tutshill Tornados"
+  ],
+  "collections": [
+    "characters",
+    "characters-ravenclaws"
+  ],
+  "resource": "cho-chang"
+}

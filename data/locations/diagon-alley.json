@@ -1,0 +1,12 @@
+{
+  "name": "Diagon Alley",
+  "description": "A cobblestoned shopping area for the wizarding world, where Hogwarts students can purchase necessary supplies",
+  "whereInTheWorld": "Just off Charing Cross Road, London, behind a pub called the Leaky Cauldron",
+  "magicalProperties": "A busy shopping street completely unseen by Muggles and accessible by tapping a special brick in the wall of The Leaky Cauldron three times",
+  "significantEventsThatTookPlaceHere": "Harry's reintroduction to the wizarding world when he arrives with Hagrid to buy his Hogwarts supplies",
+  "peculiarThingsThatLiveHere": "Rumour has it that dragons guard the Gringotts vaults below the ground",
+  "collections": [
+    "locations"
+  ],
+  "resource": "diagon-alley"
+}

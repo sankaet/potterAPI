@@ -1,0 +1,10 @@
+{
+  "name": "Petrificus Totalus",
+  "description": "Also known as The Full Body-Bind, this spell paralyses the victim",
+  "incantation": "Petrificus Totalus",
+  "purpose": "To temporarily paralyse someone",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "full-body-bind-curse"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ron Weasley",
+  "description": "One of Harry Potter’s two best friends, fellow Gryffindor, and youngest Weasley son",
+  "fullName": "Ronald Bilius Weasley",
+  "birthday": "1 March 1980",
+  "wand": "First wand: Twelve inch, ash wood and unicorn tail hair wand, hand-me-down from his brother Charlie; Second wand: Fourteen inch, willow and unicorn tail hair",
+  "house": "Gryffindor",
+  "patronus": "Jack Russell terrier",
+  "parents": "Molly and Arthur Weasley",
+  "skills": [
+    "Wizard chess",
+    "Quidditch goalkeeping"
+  ],
+  "hobbies": [
+    "Supporting the Chudley Cannons",
+    "Eating sweets"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "ron-weasley"
+}

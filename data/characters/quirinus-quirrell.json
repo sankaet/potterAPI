@@ -1,0 +1,21 @@
+{
+  "name": "Quirinus Quirrell",
+  "description": "Stuttering, nervous Defence Against the Dark Arts professor who's hiding a dark secret",
+  "birthday": "26 September",
+  "wand": "Alder and unicorn hair, 9 inches long, bendy",
+  "house": "Ravenclaw",
+  "skills": [
+    "Learned in the theory of Defensive Magic",
+    "Less adept in the practise"
+  ],
+  "hobbies": [
+    "Travel",
+    "Pressing wild flowers"
+  ],
+  "death": "1992",
+  "collections": [
+    "characters",
+    "characters-professors"
+  ],
+  "resource": "quirinus-quirrell"
+}

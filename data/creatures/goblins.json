@@ -1,0 +1,12 @@
+{
+  "name": "Goblins",
+  "description": "Skilled metalworkers who run Gringotts Wizarding Bank",
+  "breed": "Goblins",
+  "appearance": "Short, long-nosed, with long, thin fingers",
+  "magicAbilities": "Their own type of magic performed without a wand, skilled metalsmiths",
+  "dangers": "Cunning and clever",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "goblins"
+}

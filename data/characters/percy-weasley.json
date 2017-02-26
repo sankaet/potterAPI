@@ -1,0 +1,23 @@
+{
+  "name": "Percy Weasley",
+  "description": "Sensible and pompous, Percy is the third eldest Weasley sibling",
+  "fullName": "Percy Ignatius Weasley",
+  "birthday": "22 August",
+  "house": "Gryffindor",
+  "parents": "Arthur and Molly Weasley",
+  "skills": [
+    "Intelligent",
+    "Hard-working",
+    "A model student"
+  ],
+  "hobbies": [
+    "Being a stickler for rules wherever whenever",
+    "Reporting on cauldron bottoms"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "percy-weasley"
+}

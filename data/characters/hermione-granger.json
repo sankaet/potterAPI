@@ -1,0 +1,22 @@
+{
+  "name": "Hermione Granger",
+  "description": "From bookish Muggle-born to one of Gryffindor's bravest",
+  "fullName": "Hermione Jean Granger",
+  "birthday": "19 September 1979",
+  "wand": "Dragon heartstring core, ten and three-quarter inches, vine wood",
+  "house": "Gryffindor",
+  "patronus": "Otter",
+  "parents": "Mr and Mrs Granger, both Muggles, both dentists",
+  "skills": [
+    "Almost everything"
+  ],
+  "hobbies": [
+    "Reading",
+    "Campaigning for House-Elves' rights"
+  ],
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "hermione-granger"
+}

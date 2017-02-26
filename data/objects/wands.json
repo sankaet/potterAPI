@@ -1,0 +1,10 @@
+{
+  "name": "Wands",
+  "description": "The single most important magical tool, they can be made from a variety of woods and cores",
+  "type": "Made from various kinds of wood, containing a core from substances such as dragon heartstring, unicorn hair or phoenix feather",
+  "magicalProperties": "The wand channels a witch or wizard’s power and abilities",
+  "collections": [
+    "objects"
+  ],
+  "resource": "wands"
+}

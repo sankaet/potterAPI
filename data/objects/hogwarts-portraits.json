@@ -1,0 +1,10 @@
+{
+  "name": "Hogwarts Portraits",
+  "description": "Enchanted paintings, the subjects of which can talk and flit between frames",
+  "magicalProperties": "The ability to speak to people - both real and in other portraits",
+  "purpose": "To commemorate important witches, wizards and events; to offer advice to those within Hogwarts",
+  "collections": [
+    "objects"
+  ],
+  "resource": "hogwarts-portraits"
+}

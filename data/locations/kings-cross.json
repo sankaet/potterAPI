@@ -1,0 +1,10 @@
+{
+  "name": "King’s Cross",
+  "description": "Train station home to the elusive platform nine and three-quarters",
+  "whereInTheWorld": "North London",
+  "magicalProperties": "London train station with magical platforms",
+  "collections": [
+    "locations"
+  ],
+  "resource": "kings-cross"
+}

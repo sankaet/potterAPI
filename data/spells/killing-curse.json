@@ -1,0 +1,10 @@
+{
+  "name": "Avada Kedavra",
+  "description": "Powerful curse which instantly kills the victim",
+  "incantation": "Avada Kedavra",
+  "purpose": "Instant death",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "killing-curse"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Garrick Ollivander",
+  "description": "Considered by many to be the world's best wandmaker, almost everyone at Hogwarts gets their wands from him",
+  "birthday": "25 September",
+  "wand": "Hornbeam and dragon heartstring, twelve and three-quarter inches, slightly bendy",
+  "house": "Ravenclaw",
+  "parents": "Wizard father, Muggle-born mother",
+  "skills": [
+    "An incomparable understanding of wandcraft"
+  ],
+  "hobbies": [
+    "None; his profession is his obsession"
+  ],
+  "collections": [
+    "characters",
+    "characters-ravenclaws"
+  ],
+  "resource": "garrick-ollivander"
+}

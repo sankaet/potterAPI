@@ -1,0 +1,23 @@
+{
+  "name": "Bill Weasley",
+  "description": "Laidback eldest Weasley sibling and member of the Order of the Phoenix",
+  "fullName": "William Arthur Weasley",
+  "birthday": "29 November",
+  "house": "Gryffindor",
+  "parents": "Arthur and Molly Weasley",
+  "skills": [
+    "Highly skilled curse-breaker for Gringotts Wizarding Bank",
+    "Very intelligent",
+    "Past Hogwarts Head Boy"
+  ],
+  "hobbies": [
+    "Table-jousting",
+    "Teasing Percy"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "bill-weasley"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Seamus Finnigan",
+  "description": "Gryffindor and member of Dumbledore's Army, dormmates with Harry, Ron, Neville and Dean",
+  "fullName": "Seamus Finnigan",
+  "house": "Gryffindor",
+  "patronus": "Fox",
+  "skills": [
+    "Pyrotechnics"
+  ],
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "seamus-finnigan"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Crucio",
+  "description": "One of the three Unforgivable Curses; the Cruciatus curse causes agonising pain",
+  "incantation": "Crucio",
+  "purpose": "To inflict excruciating pain on the recipient/victim",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "cruciatus-curse"
+}

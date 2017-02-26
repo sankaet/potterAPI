@@ -1,0 +1,10 @@
+{
+  "name": "Portkey",
+  "description": "An inanimate object enchanted to transport anyone who touches it to a specific destination",
+  "type": "Any inanimate object can be transformed into a Portkey",
+  "magicalProperties": "Transports multiple witches or wizards from one point to the next, sometimes at a prearranged time",
+  "collections": [
+    "objects"
+  ],
+  "resource": "portkey"
+}

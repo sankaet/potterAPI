@@ -1,0 +1,10 @@
+{
+  "name": "Boggarts",
+  "description": "Boggarts lurk in cupboards and when confronted, take the form of your worst fears",
+  "appearance": "Transforms into the darkest fear of the person who sees it",
+  "typicalHabitats": "Boggarts like hiding in dark, confined spaces like bedroom cupboards",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "boggarts"
+}

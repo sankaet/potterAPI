@@ -1,0 +1,24 @@
+{
+  "name": "Horace Slughorn",
+  "description": "Well-connected Potions master and founder of the Slug Club",
+  "birthday": "28 April",
+  "wand": "Cedar and dragon heartstring, ten and a quarter inches, fairly flexible",
+  "house": "Slytherin",
+  "parents": "Wizard father, witch mother (family one of the so-called 'Sacred Twenty-Eight')",
+  "skills": [
+    "Accomplished Occlumens",
+    "Expert Potioneer",
+    "Advanced self-transfiguration"
+  ],
+  "hobbies": [
+    "The Slug Club",
+    "Corresponding with famous ex-students",
+    "Fine wines",
+    "Confectionery"
+  ],
+  "collections": [
+    "characters",
+    "characters-professors"
+  ],
+  "resource": "horace-slughorn"
+}

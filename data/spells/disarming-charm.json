@@ -1,0 +1,10 @@
+{
+  "name": "Expelliarmus",
+  "description": "A handy (even life-saving) spell for removing an object from an enemy's grasp",
+  "incantation": "Expelliarmus",
+  "purpose": "To remove an object (often a wand) from the recipient’s hand",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "disarming-charm"
+}

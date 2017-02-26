@@ -1,0 +1,15 @@
+{
+  "name": "Colin Creevey",
+  "description": "This Muggle-born Gryffindor and avid photographer is one of Harry’s most devoted fans",
+  "birthday": "c. 1981",
+  "house": "Gryffindor",
+  "skills": [
+    "Photography"
+  ],
+  "death": "2 May 1998",
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "colin-creevey"
+}

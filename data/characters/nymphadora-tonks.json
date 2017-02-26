@@ -1,0 +1,18 @@
+{
+  "name": "Nymphadora Tonks",
+  "description": "A Metamorphmagus and Auror with distinctive hair. Member of the Order of the Phoenix",
+  "fullName": "Nymphadora Tonks, also know as Tonks and occasionally Dora",
+  "house": "Hufflepuff",
+  "patronus": "A jack rabbit, then, after she fell in love with Remus Lupin, a wolf",
+  "parents": "Edward 'Ted' Tonks (Muggle-born wizard) and Andromeda Tonks (witch, sister of Bellatrix Lestrange and Narcissa Malfoy)",
+  "skills": [
+    "Talented Auror",
+    "Metamorphmagus"
+  ],
+  "death": "2 May 1998",
+  "collections": [
+    "characters",
+    "aurors"
+  ],
+  "resource": "nymphadora-tonks"
+}

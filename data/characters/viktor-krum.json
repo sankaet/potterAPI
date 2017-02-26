@@ -1,0 +1,13 @@
+{
+  "name": "Viktor Krum",
+  "description": "Famous international Quidditch player, Seeker for Bulgaria, and student at Durmstrang Institute",
+  "wand": "Hornbeam and dragon heartstring, ten and a quarter inches, quite rigid",
+  "skills": [
+    "One of the best Seekers in the world"
+  ],
+  "collections": [
+    "characters",
+    "international-wizards"
+  ],
+  "resource": "viktor-krum"
+}

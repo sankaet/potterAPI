@@ -1,0 +1,11 @@
+{
+  "name": "The Horcruxes",
+  "description": "Objects used by Voldemort to conceal parts of his soul and tether him to life. They can only be created after committing murder",
+  "type": "Objects of great importance to Voldemort, used to conceal parts of his soul",
+  "magicalProperties": "Once created, the Horcruxes make the wizard immortal as long as they remain intact",
+  "whenItWasMade": "The first was made while Voldemort was still at school, his last was created when he murdered Bertha Jorkins",
+  "collections": [
+    "objects"
+  ],
+  "resource": "the-horcruxes"
+}

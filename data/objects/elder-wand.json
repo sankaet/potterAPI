@@ -1,0 +1,9 @@
+{
+  "name": "Elder Wand",
+  "description": "Arguably the most sought after Deathly Hallow, a wand more powerful than any other in the wizarding world",
+  "type": "Deathly Hallow",
+  "purpose": "To give a witch or wizard more power than any other",
+  "whoItBelongsTo": "The Elder Wand takes on a new master whenever it has been 'won' from its previous owner",
+  "collections": [],
+  "resource": "elder-wand"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Harry Potter",
+  "description": "Harry Potter is The Boy Who Lived, singled out by Lord Voldemort at birth to be his greatest rival, and our hero",
+  "fullName": "Harry James Potter",
+  "birthday": "31 July 1980",
+  "wand": "Holly and Phoenix feather, eleven inches, nice and supple, it shares its core with Voldemort's wand",
+  "house": "Gryffindor",
+  "patronus": "Stag",
+  "parents": "Lily and James Potter",
+  "skills": [
+    "Parseltongue",
+    "Defence Against the Dark Arts",
+    "Skilled Seeker"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-potter-family"
+  ],
+  "resource": "harry-potter"
+}

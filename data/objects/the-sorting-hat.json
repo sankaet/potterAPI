@@ -1,0 +1,11 @@
+{
+  "name": "The Sorting Hat",
+  "description": "Enchanted hat that once belonged to Godric Gryffindor and sorts students into Hogwarts houses",
+  "magicalProperties": "Talks, sings, uses Legilimency",
+  "purpose": "Sorts the students into one of the four Hogwarts houses, also provides help to students in need",
+  "whoMadeOrFirstOwnedIt": "Originally belonged to Godric Gryffindor, but all the Hogwarts founders, Godric Gryffindor, Salazar Slytherin, Rowena Ravenclaw and Helga Hufflepuff bewitched it for Sorting purposes",
+  "collections": [
+    "objects"
+  ],
+  "resource": "the-sorting-hat"
+}

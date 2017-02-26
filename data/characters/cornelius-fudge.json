@@ -1,0 +1,16 @@
+{
+  "name": "Cornelius Fudge",
+  "description": "Bowler hat-wearing Minister for Magic",
+  "fullName": "Cornelius Fudge",
+  "skills": [
+    "Turning a blind eye to the continuing threat of Dark Magic in the name of keeping up morale"
+  ],
+  "hobbies": [
+    "Enjoying the odd redcurrant rum in the Three Broomsticks"
+  ],
+  "collections": [
+    "characters",
+    "ministry-of-magic-employees"
+  ],
+  "resource": "cornelius-fudge"
+}

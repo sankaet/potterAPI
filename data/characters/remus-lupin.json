@@ -1,0 +1,19 @@
+{
+  "name": "Remus Lupin",
+  "description": "A member of the Order of the Phoenix, Hogwarts teacher, Tonks’ husband - and a werewolf",
+  "fullName": "Remus John Lupin",
+  "birthday": "10 March 1960",
+  "wand": "Cypress and unicorn hair, ten and a quarter inches, pliable",
+  "house": "Gryffindor",
+  "patronus": "Wolf",
+  "parents": "Lyall Lupin (wizard), and Hope Howell (Muggle)",
+  "skills": [
+    "Exceptionally gifted in Defence Against the Dark Arts"
+  ],
+  "death": "2nd May 1998",
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "remus-lupin"
+}

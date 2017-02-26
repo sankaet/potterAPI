@@ -1,0 +1,10 @@
+{
+  "name": "Pensieve",
+  "description": "A basin used to store and review memories, used by Albus Dumbledore and Severus Snape",
+  "magicalProperties": "Memories can be siphoned into the basin to be recalled at a later date",
+  "purpose": "To clear the mind of certain memories; to examine memories at a later date; to show memories to a second party",
+  "collections": [
+    "objects"
+  ],
+  "resource": "pensieve"
+}

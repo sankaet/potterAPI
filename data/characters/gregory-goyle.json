@@ -1,0 +1,14 @@
+{
+  "name": "Gregory Goyle",
+  "description": "One of Draco Malfoy’s two thuggish Slytherin sidekicks",
+  "house": "Slytherin",
+  "parents": "Goyle Sr, a Death Eater",
+  "skills": [
+    "Beater on the Slytherin Quidditch team"
+  ],
+  "collections": [
+    "characters",
+    "characters-slytherins"
+  ],
+  "resource": "gregory-goyle"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ginny Weasley",
+  "description": "The youngest Weasley child. Brave, tenacious and an accomplished Quidditch player",
+  "fullName": "Ginevra ‘Ginny’ Molly Weasley",
+  "birthday": "11 August 1981",
+  "house": "Gryffindor",
+  "patronus": "Horse",
+  "parents": "Molly and Arthur Weasley",
+  "skills": [
+    "Skilled Chaser",
+    "Bat-Bogey hex"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "ginny-weasley"
+}

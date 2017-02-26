@@ -1,0 +1,19 @@
+{
+  "name": "Severus Snape",
+  "description": "Hogwarts Potions master, Head of Slytherin house and former Death Eater. Holds a grudge against Harry",
+  "fullName": "Severus Snape",
+  "birthday": "9 January 1960",
+  "house": "Slytherin",
+  "patronus": "Doe",
+  "parents": "Tobias Snape (Muggle) and Eileen Snape (witch, née Prince)",
+  "skills": [
+    "Extremely skilled at potions",
+    "Occlumency"
+  ],
+  "death": "2 May 1998",
+  "collections": [
+    "characters",
+    "characters-deatheaters"
+  ],
+  "resource": "severus-snape"
+}

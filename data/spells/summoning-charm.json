@@ -1,0 +1,10 @@
+{
+  "name": "Accio",
+  "description": "A charm that allows the caster to summon an object",
+  "incantation": "Accio",
+  "purpose": "To summon an object",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "summoning-charm"
+}

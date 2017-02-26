@@ -1,0 +1,17 @@
+{
+  "name": "Alastor Moody",
+  "description": "Famously paranoid Auror and one-time leader of the Order of the Phoenix",
+  "fullName": "Alastor 'Mad-Eye' Moody",
+  "parents": "Both Aurors",
+  "skills": [
+    "A highly accomplished Auror",
+    "An outstanding duellist",
+    "Also skilled in non-verbal magic"
+  ],
+  "death": "27 July, 1997",
+  "collections": [
+    "characters",
+    "aurors"
+  ],
+  "resource": "alastor-moody"
+}

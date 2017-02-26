@@ -1,0 +1,19 @@
+{
+  "name": "Xenophilius Lovegood",
+  "description": "Highly eccentric father of Luna and editor of The Quibbler",
+  "skills": [
+    "Knowledgeable on an array of magical items",
+    "Beings that other witches",
+    "Wizards don’t know a lot about (or don’t believe exist)"
+  ],
+  "hobbies": [
+    "Learning about all manner of eclectic magical objects",
+    "Creatures – from Crumple-Horned Snorkacks to the Deathly Hallows"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "lovegood-family"
+  ],
+  "resource": "xenophilius-lovegood"
+}

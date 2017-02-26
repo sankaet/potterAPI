@@ -1,0 +1,11 @@
+{
+  "name": "House-elves",
+  "description": "Loyal magical creatures bound to their owners as servants for life",
+  "appearance": "Large heads, long noses and fingers, very short, with bulging, tennis ball eyes and bat-like ears",
+  "magicAbilities": "Their own type of magic performed without a wand which includes the ability to apparate, disarm and make objects levitate",
+  "allegiance": "Bound to serve one owner unless freed by being given clothes by that owner",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "house-elves"
+}

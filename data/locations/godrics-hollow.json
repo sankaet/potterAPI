@@ -1,0 +1,11 @@
+{
+  "name": "Godric’s Hollow",
+  "description": "Historically important to the wizarding world, it is the celebrated village where Voldemort was first defeated",
+  "whereInTheWorld": "A village in the West Country of England",
+  "residentsOrOwners": "Godric Gryffindor, James and Lily Potter, the Dumbledore family, Bathilda Bagshot",
+  "significantEventsThatTookPlaceHere": "Voldemort was defeated for the first time; Harry returns in an attempt to recover the Sword of Gryffindor, and to visit his parents' graves",
+  "collections": [
+    "locations"
+  ],
+  "resource": "godrics-hollow"
+}

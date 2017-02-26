@@ -1,0 +1,23 @@
+{
+  "name": "Albus Dumbledore",
+  "description": "Hogwarts Headmaster, founder of the Order of the Phoenix, with a fondness for sherbet lemon and knitting patterns",
+  "fullName": "Albus Percival Wulfric Brian Dumbledore",
+  "birthday": "1881",
+  "wand": "Elder and Thestral tail hair, fifteen inches",
+  "house": "Gryffindor",
+  "patronus": "Phoenix",
+  "parents": "Percival and Kendra Dumbledore",
+  "skills": [
+    "Considered by many to be one of the most powerful wizards of his time"
+  ],
+  "hobbies": [
+    "Ten pin bowling",
+    "Chamber music"
+  ],
+  "death": "30 June 1997",
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "albus-dumbledore"
+}

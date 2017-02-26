@@ -1,0 +1,11 @@
+{
+  "name": "The Burrow",
+  "description": "The chaotic but warm and welcoming Devon home of the Weasley family",
+  "whereInTheWorld": "Ottery St Catchpole, Devon",
+  "magicalProperties": "Fireplace on the Floo Network, kitchen clock which reports the whereabouts of each family member",
+  "peculiarThingsThatLiveHere": "Particularly vicious garden gnomes and the ghoul in the attic",
+  "collections": [
+    "locations"
+  ],
+  "resource": "the-burrow"
+}

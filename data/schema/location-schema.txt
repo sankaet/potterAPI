@@ -1,0 +1,6 @@
+Where In The World: String
+Type: String
+Residents Or Owners: String
+Magical Properties: String
+Significant Events That Took Place Here: String
+Peculiar Things That Live Here: String

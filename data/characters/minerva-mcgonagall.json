@@ -1,0 +1,23 @@
+{
+  "name": "Minerva McGonagall",
+  "description": "The strict but fair Head of Gryffindor house and Transfiguration teacher",
+  "fullName": "Minerva Mcgonagall",
+  "birthday": "4 October",
+  "wand": "Fir and dragon heartstring, nine and a half inches, stiff",
+  "house": "Gryffindor",
+  "parents": "Muggle father, witch mother",
+  "skills": [
+    "Animagus (distinctively marked silver tabby cat)"
+  ],
+  "hobbies": [
+    "Needlework",
+    "Correcting articles in Transfiguration Today",
+    "Watching Quidditch",
+    "Supporting the Montrose Magpies"
+  ],
+  "collections": [
+    "characters",
+    "characters-gryffindors"
+  ],
+  "resource": "minerva-mcgonagall"
+}

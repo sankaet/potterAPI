@@ -1,0 +1,18 @@
+{
+  "name": "Vernon Dursley",
+  "description": "Harry Potter’s uncle by marriage, Petunia’s husband, Dudley’s father. Expresses his prejudiced views at every opportunity",
+  "skills": [
+    "Schmoozing clients",
+    "Pretending magic doesn't exist"
+  ],
+  "hobbies": [
+    "Complaining about Harry’s hair; spoiling his son",
+    "Dudley"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-dursley"
+  ],
+  "resource": "vernon-dursley"
+}

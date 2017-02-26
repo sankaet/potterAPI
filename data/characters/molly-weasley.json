@@ -1,0 +1,19 @@
+{
+  "name": "Molly Weasley",
+  "description": "The formidable Weasley matriarch and member of the Order of the Phoenix. Skilled in non-verbal magic and duelling, loves Harry like a son",
+  "fullName": "Molly Weasley",
+  "house": "Gryffindor",
+  "skills": [
+    "Household spells",
+    "Healing magic"
+  ],
+  "hobbies": [
+    "Cooking for multitudes; listening to Celestina Warbeck"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "molly-weasley"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Pomona Sprout",
+  "description": "Herbology Professor and expert in dangerous plants. Head of Hufflepuff house",
+  "birthday": "15 May",
+  "house": "Hufflepuff",
+  "skills": [
+    "Herbology"
+  ],
+  "collections": [
+    "characters",
+    "characters-hufflepuffs"
+  ],
+  "resource": "pomona-sprout"
+}

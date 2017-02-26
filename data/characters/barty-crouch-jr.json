@@ -1,0 +1,14 @@
+{
+  "name": "Barty Crouch Jr.",
+  "description": "Loyal servant of Lord Voldemort, sent to Azkaban by his own father for torturing the Longbottoms",
+  "fullName": "Bartemius Crouch Junior",
+  "parents": "Barty Crouch Sr. (wizard) and Mrs Crouch (witch)",
+  "skills": [
+    "Skilled potioneer"
+  ],
+  "collections": [
+    "characters",
+    "characters-deatheaters"
+  ],
+  "resource": "barty-crouch-jr"
+}

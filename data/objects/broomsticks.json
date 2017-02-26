@@ -1,0 +1,10 @@
+{
+  "name": "Broomsticks",
+  "description": "A handy mode of transport for wizards, and used to play Quidditch on",
+  "type": "Transportation",
+  "magicalProperties": "Gives the wizard the ability to fly",
+  "purpose": "For transport, or to play Quidditch",
+  "whereItIsLikelyToBeFound": "In a Quidditch match, or a broom shop",
+  "collections": [],
+  "resource": "broomsticks"
+}

@@ -1,0 +1,5 @@
+Type: String
+Magical Properties: String
+Purpose: String
+Who Made Or First Owned It: String
+When It Was Made: String

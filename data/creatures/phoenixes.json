@@ -1,0 +1,12 @@
+{
+  "name": "Phoenixes",
+  "description": "Faithful magical birds which burst into flame when when their bodies begin to fail, to be reborn from the ashes",
+  "breed": "Phoenixes",
+  "appearance": "Red and gold feathers",
+  "magicAbilities": "Ability to burst into flame when their bodies begin to fail, then be reborn from the ashes. Can carry incredibly heavy loads, tears have healing properties",
+  "allegiance": "Domesticated phoenixes are loyal to their owners",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "phoenixes"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lord Voldemort",
+  "description": "Formerly known as Tom Marvolo Riddle and commonly referred to as He-Who-Must-Not-Be-Named. The most powerful Dark wizard of all time",
+  "fullName": "Lord Voldemort, formerly Tom Marvolo Riddle. Also known as the Dark Lord, He-Who-Must-Not-Be-Named and You-Know-Who",
+  "birthday": "31 December 1926",
+  "wand": "Thirteen and a half inches, yew, phoenix feather, shares its core with Harry Potter's wand",
+  "house": "Slytherin",
+  "parents": "Tom Riddle Sr (Muggle) and Merope Gaunt (witch)",
+  "skills": [
+    "Dark magic",
+    "Inferi creation",
+    "Control",
+    "Parseltongue",
+    "The power to possess living creatures"
+  ],
+  "death": "2 May 1998",
+  "collections": [
+    "characters",
+    "characters-slytherins"
+  ],
+  "resource": "lord-voldemort"
+}

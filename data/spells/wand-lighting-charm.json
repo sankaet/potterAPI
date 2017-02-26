@@ -1,0 +1,11 @@
+{
+  "name": "Lumos",
+  "description": "A handy piece of magic that can turn a wand into a torch",
+  "type": "Charm",
+  "incantation": "Lumos",
+  "purpose": "To light up dark places at the flick of a wand",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "wand-lighting-charm"
+}

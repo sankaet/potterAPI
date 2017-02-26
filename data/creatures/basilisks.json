@@ -1,0 +1,12 @@
+{
+  "name": "Basilisks",
+  "description": "Giant serpents which can instantly kill anyone who looks into their eyes",
+  "appearance": "An enormous serpent, bright, poisonous green, thick as an oak trunk",
+  "magicAbilities": "Armoured skin that can deflect spells, fatal stare",
+  "dangers": "Venomous fangs, ability to kill with its stare",
+  "allegiance": "Usually bred by Dark wizards, loyal to Parselmouths",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "basilisks"
+}

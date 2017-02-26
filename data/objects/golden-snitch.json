@@ -1,0 +1,11 @@
+{
+  "name": "Golden Snitch",
+  "description": "A winged Quidditch ball which, when caught by the Seeker, gains the team 150 points",
+  "type": "Quidditch ball",
+  "purpose": "To be caught during a game of Quidditch - the Golden Snitch was substituted for the Golden Snidget, an extremely rare, protected species of bird originally used in the game",
+  "whereItIsLikelyToBeFound": "In a Quidditch match",
+  "whoMadeOrFirstOwnedIt": "Bowman Wright",
+  "whoItBelongsTo": "Harry Potter",
+  "collections": [],
+  "resource": "golden-snitch"
+}

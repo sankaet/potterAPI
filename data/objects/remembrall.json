@@ -1,0 +1,9 @@
+{
+  "name": "Remembrall",
+  "description": "An enchanted ball that glows red if you've forgotten something",
+  "magicalProperties": "Glows red",
+  "purpose": "To help a witch or wizard remember something",
+  "whoItBelongsTo": "Neville Longbottom",
+  "collections": [],
+  "resource": "remembrall"
+}

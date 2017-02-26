@@ -1,0 +1,10 @@
+{
+  "name": "The Great Hall",
+  "description": "Room in Hogwarts school, where students and teachers dine and congregate",
+  "whereInTheWorld": "Hogwarts",
+  "type": "Room",
+  "magicalProperties": "Ceiling enchanted to look like the sky",
+  "significantEventsThatTookPlaceHere": "The announcement of the Triwizard Tournament; the memorial for Cedric Diggory; the vanquishing of Lord Voldemort",
+  "collections": [],
+  "resource": "the-great-hall"
+}

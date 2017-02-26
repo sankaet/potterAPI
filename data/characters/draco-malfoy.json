@@ -1,0 +1,14 @@
+{
+  "name": "Draco Malfoy",
+  "description": "A pure-blood wizard, proud Slytherin and Harry Potter’s arch rival at Hogwarts",
+  "birthday": "5 June 1980",
+  "wand": "Hawthorn and unicorn hair. Ten inches precisely",
+  "house": "Slytherin",
+  "parents": "Lucius and Narcissa Malfoy",
+  "collections": [
+    "characters",
+    "families",
+    "the-malfoy-family"
+  ],
+  "resource": "draco-malfoy"
+}

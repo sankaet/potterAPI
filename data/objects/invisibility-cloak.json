@@ -1,0 +1,9 @@
+{
+  "name": "Invisibility Cloak",
+  "description": "One of the three Deathly Hallows, a cloak that once worn can make the user invisible",
+  "type": "Deathly Hallow",
+  "purpose": "To render the wearer invisible",
+  "whoItBelongsTo": "Harry Potter, James Potter, James Potter Jr.",
+  "collections": [],
+  "resource": "invisibility-cloak"
+}

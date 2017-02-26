@@ -1,0 +1,11 @@
+{
+  "name": "Merpeople",
+  "description": "Underwater beasts who have a rocky relationship with the wizarding world",
+  "appearance": "Half fish, half human, grey skin, dark green hair, yellow eyes and teeth",
+  "dangers": "Warlike tendencies, can drag people to their deaths underwater",
+  "typicalHabitats": "An underwater colony in the Great Lake at Hogwarts",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "merpeople"
+}

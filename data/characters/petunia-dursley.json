@@ -1,0 +1,16 @@
+{
+  "name": "Petunia Dursley",
+  "description": "Dudley’s devoted mother, Lily’s Muggle sister, Vernon’s wife",
+  "fullName": "Petunia Dursley (née Evans)",
+  "hobbies": [
+    "Spying on",
+    "Gossiping about her neighbours; spoiling her son",
+    "Dudley"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-dursley"
+  ],
+  "resource": "petunia-dursley"
+}

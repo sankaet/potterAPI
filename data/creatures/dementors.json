@@ -1,0 +1,11 @@
+{
+  "name": "Dementors",
+  "description": "The guards of Azkaban, they feed on human happiness and can extract souls with their Dementor's Kiss",
+  "appearance": "Shaped like humans covered in dark hooded cloaks, their skin resembles that of a grey rotting body",
+  "magicAbilities": "Though they are blind, they can sense and feed on positive feelings, draining their victim's happiness",
+  "typicalHabitats": "Azkaban",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "dementors"
+}

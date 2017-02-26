@@ -1,0 +1,13 @@
+{
+  "name": "Pansy Parkinson",
+  "description": "Slytherin student, ardent admirer of Draco Malfoy and member of the Inquisitorial Squad",
+  "house": "Slytherin",
+  "hobbies": [
+    "Fondness for unicorns"
+  ],
+  "collections": [
+    "characters",
+    "characters-slytherins"
+  ],
+  "resource": "pansy-parkinson"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Peter Pettigrew",
+  "description": "Loyal follower of Voldemort who betrayed Harry's parents",
+  "house": "Gryffindor",
+  "skills": [
+    "Animagus; being a rat",
+    "In every sense of the word"
+  ],
+  "death": "March 1998",
+  "collections": [
+    "characters",
+    "characters-deatheaters"
+  ],
+  "resource": "peter-pettigrew"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Rubeus Hagrid",
+  "description": "The half-giant Hogwarts gamekeeper loves all creatures and is a tirelessly loyal friend to Harry and Dumbledore",
+  "fullName": "Rubeus Hagrid",
+  "birthday": "6 December 1928",
+  "wand": "Sixteen inches, oak (it was broken in his third year - repaired and presumably kept in a pink umbrella)",
+  "house": "Gryffindor",
+  "parents": "Mr Hagrid (human) and Fridwulfa (giantess)",
+  "skills": [
+    "Resistant to stunning spells",
+    "Above average strength",
+    "Crossbowmanship"
+  ],
+  "hobbies": [
+    "Gardening",
+    "Cooking",
+    "Care of magical creatures"
+  ],
+  "collections": [
+    "characters",
+    "members-of-the-order-of-the-phoenix"
+  ],
+  "resource": "rubeus-hagrid"
+}

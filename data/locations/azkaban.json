@@ -1,0 +1,11 @@
+{
+  "name": "Azkaban",
+  "description": "An island prison in the middle of the North Sea for dangerous wizards and witches",
+  "whereInTheWorld": "An island in the middle of the North Sea",
+  "type": "Prison",
+  "residentsOrOwners": "Prominent figures who have spent time in Azkaban include: Sirius Black, Bellatrix and Rodolphus Lestrange, Lucius Malfoy, Rubeus Hagrid and Dolores Umbridge",
+  "collections": [
+    "locations"
+  ],
+  "resource": "azkaban"
+}

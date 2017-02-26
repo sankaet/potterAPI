@@ -1,0 +1,10 @@
+{
+  "name": "The Ministry of Magic",
+  "description": "The building from which the magical community is governed and its laws enforced",
+  "whereInTheWorld": "Central London",
+  "residentsOrOwners": "There are seven main Ministry departments: Magical Law Enforcement, Magical Accidents and Catastrophes, Magical Transportation, Mysteries, Magical Games and Sports, Regulation and Control of Magical Creatures, and International Magical Cooperation",
+  "collections": [
+    "locations"
+  ],
+  "resource": "the-ministry-of-magic"
+}

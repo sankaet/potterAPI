@@ -1,0 +1,10 @@
+{
+  "name": "Alohomora",
+  "description": "A spell to open locks; AKA \"the thief’s friend\"",
+  "incantation": "Alohomora",
+  "purpose": "To open a locked door, window or object",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "unlocking-charm"
+}

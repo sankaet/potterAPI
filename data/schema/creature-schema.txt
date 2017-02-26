@@ -1,0 +1,6 @@
+Breed: String
+Appearance: String
+Magic Abilities: String
+Dangers: String
+Typical Habitats: String
+Allegiance: String

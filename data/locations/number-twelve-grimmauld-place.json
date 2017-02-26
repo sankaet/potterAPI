@@ -1,0 +1,12 @@
+{
+  "name": "Number Twelve, Grimmauld Place",
+  "description": "Ancestral home of the Black family and, later, the Order of the Phoenix headquarters",
+  "whereInTheWorld": "London",
+  "residentsOrOwners": "Black family, inherited by Harry after Sirius Black's death",
+  "magicalProperties": "Invisible to Muggles",
+  "peculiarThingsThatLiveHere": "Kreacher, the house-elf; the shrieking portrait of Walburga Black; an infestation of Doxys; a Boggart",
+  "collections": [
+    "locations"
+  ],
+  "resource": "number-twelve-grimmauld-place"
+}

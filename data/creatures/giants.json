@@ -1,0 +1,11 @@
+{
+  "name": "Giants",
+  "description": "Colossal creatures which can be extremely dangerous",
+  "breed": "Giants",
+  "dangers": "Violent nature, known to remove heads when angered",
+  "typicalHabitats": "Mountains",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "giants"
+}

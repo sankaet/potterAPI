@@ -1,0 +1,10 @@
+{
+  "name": "Howler",
+  "description": "A red envelope containing a shrieking, angry message that's impossible to ignore",
+  "magicalProperties": "Delivers the sender’s message at a magically magnified volume, a hundred times louder than their normal voice. Also heats up rapidly and explodes if not opened fast enough, burning completely once the message has been delivered",
+  "purpose": "To direct abuse, a complaint or a criticism to the recipient",
+  "collections": [
+    "objects"
+  ],
+  "resource": "howler"
+}

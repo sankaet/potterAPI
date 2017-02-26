@@ -1,0 +1,10 @@
+{
+  "name": "Hogwarts",
+  "description": "Sprawling Scottish castle and celebrated School of Witchcraft and Wizardry",
+  "whereInTheWorld": "Scotland",
+  "significantEventsThatTookPlaceHere": "One or two minor episodes from Harry Potter's life",
+  "collections": [
+    "locations"
+  ],
+  "resource": "hogwarts"
+}

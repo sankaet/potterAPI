@@ -1,0 +1,12 @@
+{
+  "name": "Werewolves",
+  "description": "Once infected by lycanthropy, they transform into a deadly wolf every full moon",
+  "breed": "Werewolves are lycanthropes, and can infect others with their bite",
+  "magicAbilities": "Painful transformation, ability to infect others",
+  "dangers": "A werewolf bite can kill, or turn their victim into a werewolf",
+  "typicalHabitats": "During a full moon",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "werewolves"
+}

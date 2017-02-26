@@ -1,0 +1,9 @@
+{
+  "name": "The Goblet of Fire",
+  "description": "Flame-filled wooden cup which is the impartial selector of Triwizard champions",
+  "magicalProperties": "The ability to pick the most worthy candidates from the names that are entered",
+  "collections": [
+    "objects"
+  ],
+  "resource": "the-goblet-of-fire"
+}

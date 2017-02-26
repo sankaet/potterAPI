@@ -1,0 +1,17 @@
+{
+  "name": "George Weasley",
+  "description": "Fred’s twin, Gryffindor Beater and co-owner of Weasleys' Wizard Wheezes",
+  "fullName": "George Weasley",
+  "birthday": "1 April, 1978",
+  "house": "Gryffindor",
+  "parents": "Arthur and Molly Weasley",
+  "hobbies": [
+    "Mischief"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "george-weasley"
+}

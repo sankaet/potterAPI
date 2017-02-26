@@ -1,0 +1,12 @@
+{
+  "name": "Dragons",
+  "description": "Giant, winged, fire-breathing creatures",
+  "appearance": "Differs depending on type",
+  "magicAbilities": "The heartstrings of dragons are one of the core substances Ollivander uses in his wands",
+  "dangers": "Many",
+  "typicalHabitats": "All over the world, especially in wilder regions",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "dragons"
+}

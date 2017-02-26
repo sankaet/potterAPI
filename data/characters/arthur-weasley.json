@@ -1,0 +1,16 @@
+{
+  "name": "Arthur Weasley",
+  "description": "Father of the Weasley family and husband to Molly. Works in the Misuse of Muggle Artefacts Office",
+  "birthday": "6 February 1950",
+  "house": "Gryffindor",
+  "patronus": "Weasel",
+  "hobbies": [
+    "Studying how the Muggle world works"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-weasley-family"
+  ],
+  "resource": "arthur-weasley"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Thunderbirds",
+  "description": "Flying beast that can sense danger, and create storms as it flies. Its tail feathers were used by Shikoba Wolfe to create powerful wands, particularly good for Transfiguration.",
+  "breed": "Bird",
+  "appearance": "Bird-like",
+  "magicAbilities": "Senses danger and creates storms as it flies. Closely related to the phoenix",
+  "typicalHabitats": "North America",
+  "allegiance": "One of Ilvermorny School of Witchcraft and Wizardry's house beasts",
+  "collections": [
+    "creatures"
+  ],
+  "resource": "thunderbirds"
+}

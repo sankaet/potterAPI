@@ -1,0 +1,11 @@
+{
+  "name": "Hogsmeade",
+  "description": "The only entirely non-Muggle settlement in Britain",
+  "whereInTheWorld": "Scotland",
+  "residentsOrOwners": "Owners of various businesses include Aberforth Dumbledore, Madame Rosmerta and Madam Puddifoot, and shops include Honeydukes sweet shop, and Zonko’s Joke Shop",
+  "magicalProperties": "Both Honeydukes and the Hog’s Head pub have secret passages into the grounds of Hogwarts",
+  "collections": [
+    "locations"
+  ],
+  "resource": "hogsmeade"
+}

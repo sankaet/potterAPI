@@ -1,0 +1,14 @@
+{
+  "name": "Dudley Dursley",
+  "description": "Spoiled son of Vernon and Petunia Dursley",
+  "parents": "Spoilt son of Petunia and Vernon",
+  "hobbies": [
+    "Bullying Harry"
+  ],
+  "collections": [
+    "characters",
+    "families",
+    "the-dursley"
+  ],
+  "resource": "dudley-dursley"
+}

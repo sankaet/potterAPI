@@ -1,0 +1,11 @@
+{
+  "name": "Marauder's Map",
+  "description": "Magic parchment that reveals the current location of anyone on Hogwarts grounds",
+  "magicalProperties": "Shows the location of any person or ghost on Hogwart’s grounds, isn’t fooled by an Animagus or an Invisibility Cloak",
+  "purpose": "Mischief",
+  "whoMadeOrFirstOwnedIt": "The Marauders: Remus Lupin (‘Moony’), Peter Pettigrew (‘Wormtail’), Sirius Black (‘Padfoot’) and James Potter (‘Prongs’)",
+  "collections": [
+    "objects"
+  ],
+  "resource": "marauders-map"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Impedimenta",
+  "description": "A spell to slow down and obstruct attackers",
+  "incantation": "Impedimenta",
+  "purpose": "To stop or slow down any person or creature by temporarily immobilising them",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "impediment-jinx"
+}

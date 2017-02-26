@@ -1,0 +1,10 @@
+{
+  "name": "Knockturn Alley",
+  "description": "Spooky side street devoted to the Dark Arts and sinister objects",
+  "whereInTheWorld": "Off Charing Cross Road, close to Diagon Alley",
+  "residentsOrOwners": "Most prominently Borgin and Burkes, which is known for buying and trading in sinister objects used in the Dark Arts",
+  "collections": [
+    "locations"
+  ],
+  "resource": "knockturn-alley"
+}

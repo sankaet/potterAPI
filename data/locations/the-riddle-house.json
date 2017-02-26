@@ -1,0 +1,10 @@
+{
+  "name": "The Riddle House",
+  "description": "Home to the Riddle family, including Voldemort’s father, and where they died",
+  "whereInTheWorld": "Little Hangleton",
+  "residentsOrOwners": "Home to Lord Voldemort’s father, Tom Riddle Sr, and his parents",
+  "collections": [
+    "locations"
+  ],
+  "resource": "the-riddle-house"
+}
