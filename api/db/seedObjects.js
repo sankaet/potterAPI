@@ -17,7 +17,7 @@ const ObjectSchema = new Schema({
   resource: String
 });
 
-const Object = mongoose.model('object', ObjectSchema);
+const Obj = mongoose.model('object', ObjectSchema);
 
 // Reads all Character JSON files and allows access to each object object
 fs.readdir('../../data/objects', (err, objects) => {
@@ -26,7 +26,7 @@ fs.readdir('../../data/objects', (err, objects) => {
       if(err){
         console.error(err);
       }
-      const object = new Object(JSON.parse(data.toString()));
+      const object = new Obj(JSON.parse(data.toString()));
       object.save((err, data) => {
         if(err){
           console.error(err);

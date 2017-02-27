@@ -14,5 +14,5 @@ const ObjectSchema = new Schema({
   resource: String
 });
 
-const Obj = mongoose.model('obj', ObjectSchema);
+const Obj = mongoose.model('object', ObjectSchema);
 module.exports = Obj;

@@ -27,6 +27,9 @@
           document.getElementById("request").click();
       }
     });
+
+    const searchTerm = document.getElementById("basic-url").value;
+
     const getData = () => {
       document.getElementById("request").addEventListener("click", function(){
         window.location = 'http://localhost:3000/' + 'characters';
