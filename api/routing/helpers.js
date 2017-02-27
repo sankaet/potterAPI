@@ -6,6 +6,7 @@ const Location = require('../db/locationModel.js');
 const Obj = require('../db/objectModel.js');
 const Spell = require('../db/spellModel.js');
 
+// build helper where input is the id and then you can access it via req.query
 
 module.exports = {
   getAllCreatures: (req, res, next) => {

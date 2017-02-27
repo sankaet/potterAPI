@@ -6,6 +6,8 @@ module.exports.router = (app) => {
 
   app.get('/characters', helpers.getAllCharacters, helpers.throwError);
 
+  app.get
+
   app.get('/locations', helpers.getAllLocations, helpers.throwError);
 
   app.get('/objects', helpers.getAllObjects, helpers.throwError);
