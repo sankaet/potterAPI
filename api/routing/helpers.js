@@ -27,15 +27,12 @@ module.exports = {
 
   getAllCharacters: (req, res, next) => {
     new Promise(function(){
-      // db call
       Character.find((err, characters) => {
         res.send(characters);
       })
     })
     .then(() => {
-      // check if should throw error if no results
       if(res.length === 0){
-        //throw error
         console.log('NO RESULTS FOUND');
       }
     })
@@ -44,15 +41,12 @@ module.exports = {
 
   getAllLocations: (req, res, next) => {
     new Promise(function(){
-      // DB query goes here
       Location.find((err, locations) => {
         res.send(locations);
       });
     })
     .then(() => {
-      // check if should throw error if no results
       if(res.length === 0){
-        //throw error
         console.log('NO RESULTS FOUND');
       }
     })
@@ -61,15 +55,12 @@ module.exports = {
 
   getAllObjects: (req, res, next) => {
     new Promise(function(){
-      // DB query goes here
       Obj.find((err, objects) => {
         res.send(objects);
       });
     })
     .then(() => {
-      // check if should throw error if no results
       if(res.length === 0){
-        //throw error
         console.log('NO RESULTS FOUND');
       }
     })
@@ -78,15 +69,12 @@ module.exports = {
 
   getAllSpells: (req, res, next) => {
     new Promise(function(){
-      // DB query goes here
       Spell.find((err, spells) => {
         res.send(spells);
       });
     })
     .then(() => {
-      // check if should throw error if no results
       if(res.length === 0){
-        //throw error
         console.log('NO RESULTS FOUND');
       }
     })
@@ -98,5 +86,4 @@ module.exports = {
       message: "Data not found"
     })
   }
-
 }
