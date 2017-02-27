@@ -1,43 +1,11 @@
 const express = require('express');
 const path = require('path');
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+const routes = require('./routing/routes');
+
 const app = express();
 
-//TODO:
-  // import each new schema and then set up routes for each
-
+routes.router(app);
 app.use(express.static(path.join(__dirname, '../client')));
-
-mongoose.connect('mongodb://localhost/potterdata/');
-
-const CreatureSchema = new Schema({
-  name: String,
-  description: String,
-  breed: String,
-  appearance: String,
-  magicAbilities: String,
-  dangers: String,
-  typicalHabitats: String,
-  allegiance: String,
-  collections: Array,
-  resource: String
-});
-
-const Creature = mongoose.model('Creature', CreatureSchema);
-
-// app.get('/characters', (req, res) => {
-//   Character.find((err, characters) => {
-//     // Sends an array of characters in DB
-//     res.send(characters[0]);
-//   });
-// });
-
-app.get('/creatures', (req, res) => {
-  mongoose.model('Creature').find((err, creatures) => {
-    res.send(creatures[1]);
-  });
-});
 
 const server = app.listen(process.env.PORT || 3000, function() {
   const host = server.address().address;

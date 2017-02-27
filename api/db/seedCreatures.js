@@ -19,7 +19,7 @@ const CreatureSchema = new Schema({
 
 const Creature = mongoose.model('Creature', CreatureSchema);
 
-// Reads all Character JSON files and allows access to each creature object
+Reads all Character JSON files and allows access to each creature object
 fs.readdir('../../data/creatures', (err, creatures) => {
   for(var i = 1; i < creatures.length; i++){
     fs.readFile(`../../data/creatures/${creatures[i]}`, (err, data) => {
