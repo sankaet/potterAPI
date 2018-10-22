@@ -1,0 +1,11 @@
+{
+  "name": "Nox",
+  "description": "The counterspell for the Lumos charm",
+  "type": "Charm",
+  "incantation": "Nox",
+  "purpose": "To darken a lighted wand tip",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "wand-darkening-charm"
+}
