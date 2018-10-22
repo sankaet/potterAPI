@@ -1,0 +1,10 @@
+{
+  "name": "Coloportus",
+  "description": "A spell to lock locks,
+  "incantation": "Coloportus",
+  "purpose": "To close an unlocked door, window or object",
+  "collections": [
+    "spells-and-charms"
+  ],
+  "resource": "locking-charm"
+}
